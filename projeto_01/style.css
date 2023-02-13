@@ -1,16 +1,29 @@
-font-family: 'Inter', sans-serif;
-font-family: 'Open Sans', sans-serif;
 
+body{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+
+}
+
+#hero{
+    width: 592px ;
+    margin: auto;
+    border: 1px solid red;        
+}
 h1{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+    font-weight: normal;
 }
 
+h1 span a{
+    font-weight:bold ;
+}
+
+span, a{
+    color: orange;
+}
 p{
-    font-family: 'Open Sans', sans-serif;
-
-}
-
-a{
-    font-family: 'Open Sans', sans-serif;
-
+    color: #7d7987;
 }
