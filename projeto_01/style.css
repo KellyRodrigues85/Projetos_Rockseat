@@ -37,8 +37,7 @@ p, #footer{
     line-height: 28px;
 }
 
-
-footer a + a{
+#footer a + a{
     margin-left: 28px;
 }
 #line{
@@ -47,4 +46,9 @@ footer a + a{
 
     margin: 0 auto 8px;
     border: 1px solid #ECEFF2;
+}
+#balls{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
 }
