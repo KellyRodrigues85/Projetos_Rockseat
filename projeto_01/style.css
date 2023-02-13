@@ -18,6 +18,7 @@ h1{
 }
 
 h1 span a{
+
     font-weight:bold ;
 }
 
@@ -26,4 +27,6 @@ span, a{
 }
 p{
     color: #7d7987;
+    font-size: 14px;
+    line-height: 28px;
 }
